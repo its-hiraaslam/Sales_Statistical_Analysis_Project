@@ -1,5 +1,4 @@
 # Sales_Statistical_Analysis_Project
-# Sales Statistical Analysis Project
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Analysis ToolPak](https://img.shields.io/badge/Analysis_ToolPak-3b82f6?style=for-the-badge)
